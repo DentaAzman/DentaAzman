@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there! 👋
 
+My name is **Denta Nurol Azman**.<br>
+
+I'm currently a **6th semester student** at Universitas Negeri Malang.<br>
+I'm also studying at [Dicoding](https://www.dicoding.com/) as a Front-End Web and Back-End Developer!<br>
+
+If you interested to know more of me, you can follow my account at [LinkedIn](https://www.linkedin.com/in/denta-azman-23a6bb2b4/).
 <!--
 **DentaAzman/DentaAzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
